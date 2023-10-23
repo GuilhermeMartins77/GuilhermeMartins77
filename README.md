@@ -7,6 +7,7 @@
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMartins77&show_icons=true&theme=dark)
 
 
+
 ## Tecnologias que eu uso geralmente no meu dia 
 
 <div style="display: inline_block"><br/>
